@@ -9,4 +9,4 @@ para realizar las siguientes conversiones de moneda.
 3. Dólar (USD) ➡️ Real brasileño (BRL)
 4. Real brasileño (BRL) ➡️ Dólar (USD)
 5. Dólar (USD) ➡️ Peso colombiano (COP)
-6. Peso colombiano (USD) ➡️ Dólar (COP)
+6. Peso colombiano (COP) ➡️ Dólar (USD)
