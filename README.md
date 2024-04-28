@@ -17,8 +17,8 @@ en alianza educativa con [Alura Latam](https://www.aluracursos.com).
 
 <figure>
     <img src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png" 
-        alt="Oracle Next Education" style="margin-right: 30px;">
-    <img src="https://www.aluracursos.com/assets/img/home/alura-logo.1712144089.svg" width="150" alt="Alura Latam">
+        alt="Oracle Next Education" style="margin-right: 25px;">
+    <img src="https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg" width="150" alt="Alura Latam">
 <figcaption style="margin-top: 8px;">Instituciones educativas del desafío.</figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ en alianza educativa con [Alura Latam](https://www.aluracursos.com).
 - IntelliJ IDEA (recomendado, pero puede usar el IDE de su preferencia)
 
 ## Variables de entorno
-Una vez obtenida su clave de [ExchangeRate-API](https://www.exchangerate-api.com) en su IDE de preferencia configure
+Una vez obtenida su clave de [ExchangeRate-API](https://www.exchangerate-api.com), en su IDE de preferencia configure
 las siguientes variables de entorno:
 - API_KEY=<REPLACE-WITH-YOUR-API-KEY>
 - URL_EXCHANGE_RATE=https://v6.exchangerate-api.com/v6/
