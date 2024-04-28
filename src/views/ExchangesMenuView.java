@@ -61,7 +61,7 @@ public class ExchangesMenuView {
                 System.out.println(
                         "El valor "
                                 + amountToConvert
-                                + "[" + pairConversionSelected.getCoinBase().name()+"]"
+                                + " [" + pairConversionSelected.getCoinBase().name()+"]"
                                 +  " corresponde al valor final de => "
                                 + conversionResult
                                 + " [" + pairConversionSelected.getCoinTarget().name()+"]");
