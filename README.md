@@ -15,9 +15,9 @@ Este es un desafío de **Formación: Java Orientado a Objetos G6** que forma par
 programa [Oracle Next Education (ONE)](https://www.oracle.com/mx/education/oracle-next-education/)
 en alianza educativa con [Alura Latam](https://www.aluracursos.com).
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly">
     <img src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png" 
-        alt="Oracle Next Education" width="350" style="margin-right: 25px;">
+        alt="Oracle Next Education" width="350">
     <img src="https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg" width="120" alt="Alura Latam">
 </div>
 
