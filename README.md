@@ -17,7 +17,7 @@ en alianza educativa con [Alura Latam](https://www.aluracursos.com).
 
 <figure>
     <img src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png" 
-        alt="Oracle Next Education" style="margin-right: 25px;">
+        alt="Oracle Next Education">
     <img src="https://app.aluracursos.com/assets/images/logos/logo-aluraespanhol.svg" width="150" alt="Alura Latam">
 <figcaption style="margin-top: 8px;">Instituciones educativas del desafío.</figcaption>
 </figure>
