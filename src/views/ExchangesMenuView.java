@@ -38,7 +38,8 @@ public class ExchangesMenuView {
                 new ExchangeRateClient(),
                 new ExchangeRateConversionService()
         );
-        int menuOption = 0, amountToConvert;
+        int menuOption = 0;
+        double amountToConvert;
         do {
             this.showMenu();
             try {
@@ -54,7 +55,7 @@ public class ExchangesMenuView {
                     break;
                 }
                 System.out.println("Ingrese el valor que deseas convertir:");
-                amountToConvert = scanner.nextInt();
+                amountToConvert = scanner.nextDouble();
                 PairConversion pairConversionSelected = PairConversion.values()[menuOption - 1];
                 double conversionResult = controller
                         .getExchangeResultWithPairConversion(amountToConvert, pairConversionSelected);

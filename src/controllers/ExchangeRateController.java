@@ -2,7 +2,6 @@ package controllers;
 
 import clients.ExchangeRateClient;
 import dto.ExchangeRateDTO;
-import enums.Coin;
 import enums.PairConversion;
 import exceptions.HttpRequestFailedException;
 import services.ExchangeRateConversionService;
@@ -20,7 +19,7 @@ public class ExchangeRateController {
         this.exchangeRateConversionService = exchangeRateConversionService;
     }
 
-    public double getExchangeResultWithPairConversion(int initialValue, PairConversion pairConversion)
+    public double getExchangeResultWithPairConversion(double initialValue, PairConversion pairConversion)
             throws HttpRequestFailedException, IOException, InterruptedException {
         ExchangeRateDTO exchangeInfoFromCoins = exchangeRateClient
                 .getExchangeInfoFromCoins(pairConversion.getCoinBase(), pairConversion.getCoinTarget());
