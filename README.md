@@ -27,7 +27,7 @@ en alianza educativa con [Alura Latam](https://www.aluracursos.com).
 ## Variables de entorno
 Una vez obtenida su clave de [ExchangeRate-API](https://www.exchangerate-api.com), en su IDE de preferencia configure
 las siguientes variables de entorno:
-- API_KEY=<REPLACE-WITH-YOUR-API-KEY>
+- API_KEY=**REPLACE-WITH-YOUR-API-KEY**
 - URL_EXCHANGE_RATE=https://v6.exchangerate-api.com/v6/
 
 En el caso de IntelliJ IDEA, puede ver como realizar la configuración en 
